@@ -6,4 +6,9 @@
     <RootNamespace>Module._18.YoutubeDownloader</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="YoutubeExplode" Version="6.0.0" />
+    <PackageReference Include="YoutubeExplode.Converter" Version="2.1.0" />
+  </ItemGroup>
+
 </Project>
